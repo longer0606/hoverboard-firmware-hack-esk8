@@ -1,3 +1,6 @@
+
+https://www.youtube.com/watch?v=Ww_59NLo0_o&t=137s
+
 Largely identical to the original version, but modified to allow throttle control via RC remote (PWM).
 Key differences:
   - Motors turn of when throttle is centered
